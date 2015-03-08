@@ -1,4 +1,4 @@
 tri Length=243 Iterations=3     Result: 1728
 tri Length=19683 Iterations=7   Result: 442368
 tri Length=531441 Iterations=7  Result: 11943936
-tri Length=531441 Iterations=9  Result:
+tri Length=531441 Iterations=9  Result: 21233664

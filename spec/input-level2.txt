@@ -1,0 +1,4 @@
+sq Length=243 Iterations=3
+sq Length=19683 Iterations=7
+sq Length=531441 Iterations=7
+sq Length=531441 Iterations=9
