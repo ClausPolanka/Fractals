@@ -39,7 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Fractal.cs" />
+    <Compile Include="KochSnowflake.cs" />
+    <Compile Include="SquareSnowflake.cs" />
+    <Compile Include="TriangleSnowflake.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
