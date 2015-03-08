@@ -28,6 +28,10 @@ namespace Fractals.Tests
         }
 
         [TestCase(9, 1, 60.0)]
+        [TestCase(243, 3, 4500.0)]
+        [TestCase(19683, 7, 2812500.0)]
+        [TestCase(531441, 7, 75937500.0)]
+        [TestCase(531441, 9, 210937500.0)]
         public void Square_snowflake_perimeter_after_given_number_of_iterations(
             int length, 
             int iteration,

@@ -1,4 +1,4 @@
-sq Length=243 Iterations=3
-sq Length=19683 Iterations=7
-sq Length=531441 Iterations=7
-sq Length=531441 Iterations=9
+sq Length=243 Iterations=3      Result: 4500
+sq Length=19683 Iterations=7    Result: 2812500
+sq Length=531441 Iterations=7   Result: 75937500
+sq Length=531441 Iterations=9   Result: 210937500
